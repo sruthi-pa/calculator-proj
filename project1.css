@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    color:aquamarine;
+    font-size: 60px;
+    margin-left: 450px;
+}
+p{
+    color:blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+ul li
+{  
+    margin-left: 200px;
+    float:right;
+    text-indent: -90px;
+    margin-top: -3px;
+}
+li a{
+   color:aqua;
+   font-size: 18px;
+}
+u{
+    color:aquamarine;
+}
